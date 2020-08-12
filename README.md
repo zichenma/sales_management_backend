@@ -14,11 +14,12 @@ Install all dependencies:
 
 ### `npm install`
 
-Start React Application Locally (please make sure sales management frontend is runing): 
+Start React Application Locally : 
 
 ### `npm run dev`
 
 ## Frontend part link:
+(if you want to run front end part independently, please see the instruction for front end)
 
 https://github.com/zichenma/sales_management_frontend.git
 

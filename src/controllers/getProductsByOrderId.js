@@ -6,6 +6,7 @@ const {
 
 const getProductsByOrderId = async (req, res) => {
   const { orderId } = req.params;
+  console.log(req.params)
   const position = getFilePath();
     try {
       const salesTableData = await parseAsTable(position);

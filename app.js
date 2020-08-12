@@ -29,8 +29,8 @@ app.use(express.static(path.join(__dirname, 'build')));
 
 app.use('/', indexRouter);
 app.use('/api', salesRouter);
-
 app.get('*', (req, res) => {
+  console.log(1111)
   res.sendFile(path.resolve(__dirname, 'public', 'index.html'))
 })
 
