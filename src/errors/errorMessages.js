@@ -1,0 +1,8 @@
+module.exports.CATEGORY_ERROR = 'CATEGORY_ERROR';
+module.exports.SUB_CATEGORY_ERROR = 'SUB_CATEGORY_ERROR';
+module.exports.PRODCUT_ID_ERROR = 'PRODCUT_ID_ERROR';
+module.exports.REVENUE_ERROR = 'REVENUE_ERROR';
+// module.exports.ORDER_DATE_ERROR = 'ORDER_DATE_ERROR';
+// module.exports.ORDER_ID_ERROR = 'ORDER_ID_ERROR';
+module.exports.CUSTOMER_NAME_ERROR = 'CUSTOMER_NAME_ERROR';
+
